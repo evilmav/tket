@@ -167,6 +167,7 @@ class bdist_wheel(_bdist_wheel):
 
 setup(
     name="pytket",
+    version="1.21.0",
     author="TKET development team",
     author_email="tket-support@cambridgequantum.com",
     python_requires=">=3.9",
